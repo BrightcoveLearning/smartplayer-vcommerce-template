@@ -1,0 +1,1 @@
+# smartplayer-vcommerce-template
